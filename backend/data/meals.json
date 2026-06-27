@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Snack",
+    "name": "fruits",
+    "calories": 0
+  },
+  {
+    "type": "Snack",
+    "name": "potato juice",
+    "calories": 0
+  },
+  {
+    "type": "Dinner",
+    "name": "rice ",
+    "calories": 0
+  },
+  {
+    "type": "Breakfast",
+    "name": "rice",
+    "calories": 130
+  }
+]
