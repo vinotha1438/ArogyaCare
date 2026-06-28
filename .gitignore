@@ -1,0 +1,26 @@
+# Dependencies (huge, never commit these)
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# SECRET KEYS - NEVER commit these, they expose your API keys publicly
+.env
+.env.local
+.env.production
+frontend/.env
+backend/.env
+
+# Build output
+dist/
+frontend/dist/
+build/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
